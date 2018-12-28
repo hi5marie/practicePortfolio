@@ -1,0 +1,14 @@
+.error{
+    color: red;
+    font-weight: bold;
+
+}
+
+#contactForm input, #contactForm textarea{
+    color: black;
+
+}
+
+button{
+    color: blue;
+}
